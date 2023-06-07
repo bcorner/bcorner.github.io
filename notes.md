@@ -6,3 +6,4 @@
    https://github.com/bcorner/bcorner.github.io/settings/pages
 
 4. create notes.md.
+Fixing problematic commit message: git push --force-with-lease origin gatsby-tutorial 
