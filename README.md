@@ -1,1 +1,1 @@
-# bcorner.github.io
+1. git checkout -b 'gatsby-tutorial'
