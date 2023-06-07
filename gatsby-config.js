@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `bcorner github website`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://bcorner.github.io`,
   },
   plugins: [],
 }
