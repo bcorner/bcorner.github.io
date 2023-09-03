@@ -14,7 +14,7 @@ const IndexPage = () => {
                 <p>
                   <a href="index.html">Home</a>     •     {" "}
                   <a href="photos.html">Photos</a>     •     {" "}
-                  <a href="blogs.html">Dead Blogs</a>     •     {" "}
+                  <a href="https://bensdeadblogs.wordpress.com/">Dead Blogs</a>     •     {" "}
                   <a href="oldweb.html">Old Web</a>
                 </p>
                 <hr />
