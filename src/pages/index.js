@@ -1,4 +1,5 @@
 import React from "react"
+import home from "../images/home.jpg"
 
 const IndexPage = () => {
   return (
@@ -26,7 +27,7 @@ const IndexPage = () => {
                 <hr />
                 <figure>
                   <img
-                    src="images/home.jpg"
+                    src={home}
                     alt="trees, light, winter in St. Paul"
                   />
                   <figcaption aria-hidden="true">
