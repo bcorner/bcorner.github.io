@@ -22,7 +22,7 @@ const IndexPage = () => {
                   Welcome! This is an in-progress homepage for Ben Corner.
                 </p>
                 <p>
-                  I like photography.
+                  I like many things.
                 </p>
                 <hr />
                 <figure>
